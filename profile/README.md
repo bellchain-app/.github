@@ -16,11 +16,9 @@
 
 ### How it works
 
-| Step | |
-|---|---|
-| **1. Drag** | Pick a candle source, indicators and conditions from 25 building blocks, or start with a template. |
-| **2. Connect and test** | Wire them together. The replay runs the chain over 90 days of real Binance prices and lists every alert it would have sent. |
-| **3. Activate** | Get alerts via Telegram, push or email. Each action rings at most every 4 hours unless you change it. |
+1. **Drag.** Pick a candle source, indicators and conditions from 25 building blocks, or start with a template.
+2. **Connect and test.** Wire them together. The replay runs the chain over 90 days of real Binance prices and lists every alert it would have sent.
+3. **Activate.** Get alerts via Telegram, push or email. Each action rings at most every 4 hours unless you change it.
 
 ### Built in the open
 
