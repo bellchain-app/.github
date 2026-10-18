@@ -12,12 +12,12 @@
   <a href="https://t.me/bellchainapp"><b>Telegram channel</b></a>
 </p>
 
-**Bellchain** lets you build crypto alerts from nodes on a board, without code. Say you want to know when Bitcoin's RSI on the 1-hour chart drops below 30, but only while the price is above the EMA 200, and at most once every four hours. In Bellchain that's one chain: a candle, two indicators, two conditions, an AND and a Telegram node. Before it goes live, the replay shows how often it would have fired over the last 90 days of Binance prices.
+**Bellchain** lets you build crypto alerts from nodes on a board, without code. Say you want to know when Bitcoin's RSI on the 1-hour chart drops below 30, but only while the price is above the EMA 200, and at most once every four hours. In Bellchain that's one chain: a candle, two indicators, two conditions, an AND and a Telegram node. Before it goes live, the replay shows how often it would have fired on real Binance prices.
 
 ### How it works
 
 1. **Drag.** 25 nodes: candle source, indicators such as RSI, EMA, MACD and Bollinger Bands, conditions, logic and actions. Or start from a template.
-2. **Connect and test.** Wire outputs to inputs. The replay runs the chain over the last 90 days of real Binance prices and lists every alert it would have sent.
+2. **Connect and test.** Wire outputs to inputs. The replay runs the chain on real Binance prices, over the last 30 days up to a year depending on your plan, and lists every alert it would have sent.
 3. **Activate.** Alerts arrive via Telegram, push or email. After an alert, each action waits 4 hours by default before the next one.
 
 ### Built in the open
@@ -41,7 +41,7 @@ News and changelog in the Telegram channel [t.me/bellchainapp](https://t.me/bell
 <summary><b>Auf Deutsch</b></summary>
 <br>
 
-Mit Bellchain baust du dir Krypto-Alarme aus Bausteinen, ohne Code: etwa „RSI unter 30, aber nur, solange der Kurs über dem EMA 200 liegt“. Bevor eine Chain live geht, zeigt dir das Replay, wie oft sie mit den echten Binance-Kursen der letzten 90 Tage ausgelöst hätte. Alarme kommen per Telegram, Push oder E-Mail. In der Beta ist alles kostenlos.
+Mit Bellchain baust du dir Krypto-Alarme aus Bausteinen, ohne Code: etwa „RSI unter 30, aber nur, solange der Kurs über dem EMA 200 liegt“. Bevor eine Chain live geht, zeigt dir das Replay, wie oft sie mit echten Binance-Kursen ausgelöst hätte, je nach Plan in den letzten 30 Tagen bis zu einem Jahr. Alarme kommen per Telegram, Push oder E-Mail. In der Beta ist alles kostenlos.
 
 [Website](https://bellchain.app/de/) · [App öffnen](https://app.bellchain.app/) · [Doku](https://docs.bellchain.app/de/) · [Telegram-Kanal](https://t.me/bellchainapp)
 
