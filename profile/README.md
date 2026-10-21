@@ -10,6 +10,8 @@
   <a href="https://docs.bellchain.app/en/"><b>Docs</b></a>
   &nbsp;·&nbsp;
   <a href="https://t.me/bellchainapp"><b>Telegram channel</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/bellchainapp"><b>X</b></a>
 </p>
 
 **Bellchain** lets you build crypto alerts from nodes on a board, without code. Say you want to know when Bitcoin's RSI on the 1-hour chart drops below 30, but only while the price is above the EMA 200, and at most once every four hours. In Bellchain that's one chain: a candle, two indicators, two conditions, an AND and a Telegram node. Before it goes live, the replay shows how often it would have fired on real exchange prices.
@@ -35,7 +37,7 @@
 
 ### News and contact
 
-News and changelog in the Telegram channel [t.me/bellchainapp](https://t.me/bellchainapp), alerts from [@BellchainBot](https://t.me/BellchainBot), questions to [hello@bellchain.app](mailto:hello@bellchain.app).
+News and changelog in the Telegram channel [t.me/bellchainapp](https://t.me/bellchainapp), Bellchain on X as [@bellchainapp](https://x.com/bellchainapp), alerts from [@BellchainBot](https://t.me/BellchainBot), questions to [hello@bellchain.app](mailto:hello@bellchain.app).
 
 <details>
 <summary><b>Auf Deutsch</b></summary>
@@ -43,6 +45,6 @@ News and changelog in the Telegram channel [t.me/bellchainapp](https://t.me/bell
 
 Mit Bellchain baust du dir Krypto-Alarme aus Bausteinen, ohne Code: etwa „RSI unter 30, aber nur, solange der Kurs über dem EMA 200 liegt“. Bevor eine Chain live geht, zeigt dir das Replay, wie oft sie mit echten Börsenkursen ausgelöst hätte, über einen Zeitraum, der von deinem Plan abhängt. Alarme kommen per Telegram, Push oder E-Mail, je nach Plan auch als Webhook oder in Discord. Zum Start gibt es einen kostenlosen Plan.
 
-[Website](https://bellchain.app/de/) · [App öffnen](https://app.bellchain.app/) · [Doku](https://docs.bellchain.app/de/) · [Telegram-Kanal](https://t.me/bellchainapp)
+[Website](https://bellchain.app/de/) · [App öffnen](https://app.bellchain.app/) · [Doku](https://docs.bellchain.app/de/) · [Telegram-Kanal](https://t.me/bellchainapp) · [Bellchain auf X](https://x.com/bellchainapp)
 
 </details>
