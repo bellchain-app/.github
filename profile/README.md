@@ -27,7 +27,7 @@
 - **Same rules for every node.** Our own nodes follow the same node specification that community nodes will use.
 - **Checked math.** The indicators calculate like TradingView's Pine functions (`ta.rsi`, `ta.ema`, `ta.macd` and so on) and are tested against an independent recalculation on 500 real BTC/USDT hourly candles.
 - **Chains and custom nodes are JSON.** Export a chain or a node you built and share it. Importing it creates a copy of your own.
-- **Coming soon:** the node specification, the official nodes and the templates as MIT-licensed repositories right here, with discussions for node requests and templates.
+- **Open for contributions:** all templates in [templates](https://github.com/bellchain-app/templates) and custom nodes in [nodes](https://github.com/bellchain-app/nodes), MIT-licensed, with a check on every pull request. [How to contribute](https://docs.bellchain.app/en/contribute/).
 
 ### Good to know
 
@@ -44,6 +44,8 @@ News and changelog in the Telegram channel [t.me/bellchainapp](https://t.me/bell
 <br>
 
 Mit Bellchain baust du dir Krypto-Alarme aus Bausteinen, ohne Code: etwa „RSI unter 30, aber nur, solange der Kurs über dem EMA 200 liegt“. Bevor eine Chain live geht, zeigt dir das Replay, wie oft sie mit echten Börsenkursen ausgelöst hätte, über einen Zeitraum, der von deinem Plan abhängt. Alarme kommen per Telegram, Push oder E-Mail, je nach Plan auch als Webhook oder in Discord. Zum Start gibt es einen kostenlosen Plan.
+
+Vorlagen und eigene Bausteine liegen offen in [templates](https://github.com/bellchain-app/templates) und [nodes](https://github.com/bellchain-app/nodes); Beiträge sind willkommen, siehe [Mitmachen](https://docs.bellchain.app/de/contribute/).
 
 [Website](https://bellchain.app/de/) · [App öffnen](https://app.bellchain.app/) · [Doku](https://docs.bellchain.app/de/) · [Telegram-Kanal](https://t.me/bellchainapp) · [Bellchain auf X](https://x.com/bellchainapp)
 
